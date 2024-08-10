@@ -1,0 +1,5 @@
+service : {
+  getCount: () -> (nat) query;
+  inc: () -> (nat);
+  reset: () -> (nat);
+}
